@@ -1,0 +1,7 @@
+# Configure GitHub language detection for ML project
+*.py linguist-language=Python
+*.ipynb linguist-language=Python
+
+# Mark documentation and generated files
+*.md linguist-documentation=true
+README.md linguist-documentation=true
